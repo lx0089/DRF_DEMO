@@ -1,6 +1,6 @@
 Django==2.2.3
 requests==2.22.0
 django_validator==0.2.7
-paramiko==2.6.0
+paramiko==2.10.1
 psutil==5.6.3
 djangorestframework==3.10.2
