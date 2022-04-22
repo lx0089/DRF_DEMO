@@ -1,4 +1,4 @@
-Django==2.2.3
+Django==2.2.28
 requests==2.22.0
 django_validator==0.2.7
 paramiko==2.6.0
